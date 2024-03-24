@@ -12,7 +12,7 @@ public class Appinterface {
                 System.out.println("hello"+name+"osjhdk");
             }
         };
-        a.sayHello("hello");
+       a.sayHello
         b.sayHello("charate");
     }
 }
